@@ -85,12 +85,18 @@ payment type distribution
 
 - Most customers prefer to use cards rather then cash.
 
-  Passenger count distribution by payment method
+Passenger count distribution by payment method
 
-  <img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/a66384ad-3d43-4420-bdc2-154aad20d0c0" />
-
+<img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/a66384ad-3d43-4420-bdc2-154aad20d0c0" />
 
 - There is significant decrease in the transactions when the passenger count increases.
+
+## How to Use the Code
+
+- clone the repository
+
+```bash
+git clon https://github.com/yourusername/nyc-data-analysis-python/tree/main
 
 
 
