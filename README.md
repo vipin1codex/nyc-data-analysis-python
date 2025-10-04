@@ -96,7 +96,15 @@ Passenger count distribution by payment method
 - clone the repository
 
 ```bash
-git clon README.md
+git clone https://github.com/yourusername/nyc-taxi-analysis.git
+```
+
+- get the project csv file
+
+  cd nyc-taxi-analysis
+
+
+
 
 
 
