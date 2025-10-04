@@ -96,7 +96,7 @@ Passenger count distribution by payment method
 - clone the repository
 
 ```bash
-git clon https://github.com/yourusername/nyc-data-analysis-python/tree/main
+git clon README.md
 
 
 
