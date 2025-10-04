@@ -106,7 +106,7 @@ git clone https://github.com/yourusername/nyc-taxi-analysis.git
   
 - Depandancies [download](Depandancies.txt)
   
-- open and run notes secuence wise of [jupyternotebook](nyc-taxi-project.ipynb)
+- open and run notes secuence wise of [jupyternotebook](nyctaxiproject.ipynb)
 
 ## final Recomendation
 - Encourage customers to pay with cards to capitalize on the potential  to generating more revenues for taxi Drivers.
