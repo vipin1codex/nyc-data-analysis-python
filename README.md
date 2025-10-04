@@ -62,7 +62,20 @@ import scipy.stats as st
   ### Final Data
   - after cleaning the dataset contains [3554379] rows and [5] columns
   - Ready for Analysis and visualisation
-    
+
+## Exploratory Data Analysis
+
+- Analyzed the impact of different payment methods on fare amount and trip distance.
+- Used bar charts to compare fare amount and trip distance across payment types.
+- Checked customer preferences between card and cash payments using a pie chart.
+-  Analyzed passenger count (1, 2, 3, 4, 5) to find which category uses taxis the most.
+
+## Visualization
+
+Fare amount and Trip distance distribution by paymnet method
+
+
+
   
 
 
