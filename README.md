@@ -99,10 +99,12 @@ Passenger count distribution by payment method
 git clone https://github.com/yourusername/nyc-taxi-analysis.git
 ```
 
-- get the project csv file
-
-  cd nyc-taxi-analysis
-
+- get the project csv file from Kaggle
+[Download the dataset](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019)
+  
+- Depandancies[download](
+  
+ 
 
 
 
