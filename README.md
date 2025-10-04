@@ -8,10 +8,10 @@ Analysing Nyc Taxi Trip data to maximizing the revenue of taxi drivers using pyt
 - [Tools and Techniquise](#Tools-and-Techniquise)
 - [Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
 - [Final Data](#Final-Data)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Visualization](#Visualization)
-- [How to Use the Code](#How to Use the Code)
-- final Recomendation(#final Recomendation)
+- [How to Use the Code](#How-to-Use-the-Code)
+- final Recomendation(#final-Recomendation)
   
 ## Project Overview:
 In this project we analyse the NYC Taxi Trip data with the purpose of increasing the revenue of taxi drivers.
@@ -106,7 +106,7 @@ git clone https://github.com/yourusername/nyc-taxi-analysis.git
   
 - Depandancies [download](Depandancies.txt)
   
-- open and run notes secuence wise of [jupyternotebook](nyctaxiproject.ipynb)
+- open and run notes secuence wise of [jupyternotebook](nyc-taxi-project.ipynb)
 
 ## final Recomendation
 - Encourage customers to pay with cards to capitalize on the potential  to generating more revenues for taxi Drivers.
