@@ -102,7 +102,7 @@ git clone https://github.com/yourusername/nyc-taxi-analysis.git
 - get the project csv file from Kaggle
 [Download the dataset](https://www.kaggle.com/datasets/microize/newyork-yellow-taxi-trip-data-2020-2019)
   
-- Depandancies[download](Depandancies.txt)
+- Depandancies [download](Depandancies.txt)
   
  
 
