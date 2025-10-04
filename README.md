@@ -74,6 +74,7 @@ import scipy.stats as st
 
 Fare amount and Trip distance distribution by paymnet method
 
+[Bar plot](#bar-plot.png)
 
 
   
