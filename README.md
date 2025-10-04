@@ -6,6 +6,9 @@ Analysing Nyc Taxi Trip data to maximizing the revenue of taxi drivers using pyt
 - [Dataset](#Dataset)
 - [Structure](#Structure)
 - [Tools and Techniquise](#Tools-and-Techniquise)
+- [Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
+- [Final Data](#Final-Data)
+  
 
   
 ## Project Overview:
@@ -48,6 +51,19 @@ import seaborn as sns
 import statsmodels.api as sm
 import scipy.stats as st
 ```
+## Data Cleaning and Preparations
+- Removed unnecessory collumns.
+- Removed missing values with (>0.01% missing).
+- converted datetime columns in correct formate.
+- Detecting outliers with IQR method and removed extream outliers to prevent skewness of data.
+- used feature engineering methods to create new column duration by extracting month, year, time from datetime columns.
+- Standardized text fields like payment_type and vendor_id for consistency.
+- Ensured all text columns are in lowercase.
+  ### Final Data
+  - after cleaning the dataset contains [3554379] rows and [5] columns
+  - Ready for Analysis and visualisation
+    
+  
 
 
 
