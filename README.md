@@ -74,14 +74,23 @@ import scipy.stats as st
 
 Fare amount and Trip distance distribution by paymnet method
 
-[Bar plot](#bar-plot.png)
+<img width="642" height="324" alt="bar plot" src="https://github.com/user-attachments/assets/7c1150ac-5132-4450-a5ea-741532252dc4" />
+
+- Card payments have slightly higher fares on average than cash payments.
+
+payment type distribution
+
+<img width="375" height="399" alt="image" src="https://github.com/user-attachments/assets/8efdd875-9e17-487f-b498-45a62b14c9af" />
 
 
-  
+- Most customers prefer to use cards rather then cash.
+
+  Passenger count distribution by payment method
+
+  <img width="924" height="424" alt="image" src="https://github.com/user-attachments/assets/a66384ad-3d43-4420-bdc2-154aad20d0c0" />
 
 
-
-
+- There is significant decrease in the transactions when the passenger count increases.
 
 
 
